@@ -127,6 +127,13 @@ Eliges el lugar desde donde se publican y puedes generarla con Automatic Page Ge
 
 - Repositorio ejemplo para pasar ortografía a los documentos con travis (con diccionario español): https://github.com/oslugr/repo-ejemplo/blob/master/.travis.yml.
 
+## Otros recursos
+
+- Comandos útiles csswizardry: https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/.
+
+- Git rebase: https://dev.to/maxwell_dev/the-git-rebase-introduction-i-wish-id-had.
+
+- Curso git, GitHub, Markdown (Adolfo Sanz de Diego): https://github.com/asanzdiego/curso-git-github-markdown-2016.
 
 ## Repo Original Aprende git
 
