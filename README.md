@@ -129,6 +129,8 @@ Eliges el lugar desde donde se publican y puedes generarla con Automatic Page Ge
 
 ## Otros recursos
 
+- Guía Freecodecamp: https://guide.freecodecamp.org/git/.
+
 - Comandos útiles csswizardry: https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/.
 
 - Git rebase: https://dev.to/maxwell_dev/the-git-rebase-introduction-i-wish-id-had.
