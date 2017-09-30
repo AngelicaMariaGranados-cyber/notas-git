@@ -133,6 +133,8 @@ Eliges el lugar desde donde se publican y puedes generarla con Automatic Page Ge
 
 - Comandos útiles csswizardry: https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/.
 
+- Oh, shit, git!: http://ohshitgit.com/.
+
 - Git rebase: https://dev.to/maxwell_dev/the-git-rebase-introduction-i-wish-id-had.
 
 - Curso git, GitHub, Markdown (Adolfo Sanz de Diego): https://github.com/asanzdiego/curso-git-github-markdown-2016.
