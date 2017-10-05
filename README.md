@@ -139,6 +139,43 @@ Eliges el lugar desde donde se publican y puedes generarla con Automatic Page Ge
 
 - Curso git, GitHub, Markdown (Adolfo Sanz de Diego): https://github.com/asanzdiego/curso-git-github-markdown-2016.
 
+## Squash
+
+http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html
+
+Ejemplo combinar 4 commits en 1:
+
+- git rebase -i HEAD~4
+
+pick 01d1124 Adding license
+squash 6340aaa Moving license into its own file
+squash ebfd367 Jekyll has become self-aware.
+squash 30e0ccb Changed the tagline in the binary, too.
+
+- Arreglar conflictos si los hubiera
+- git add .
+- git rebase —continue
+- git push origin <branchname> -f
+
+## git workflow con rebase
+
+- Sincronizar remoto con master
+git checkout master
+git pull
+
+- Actualizar la feature branch con los últimos cambios de master
+git checkout <branchname>
+git rebase origin/master
+
+- Si no hay conflictos saltar este paso. Si los hay, resolver y continuar el rebase
+git add <file1> <file2> ...
+git rebase —continue
+
+- Push de la rama con force
+git push origin <branchname> -f
+
+- Hacer una pull request
+
 ## Repo Original Aprende git
 
 [![Build Status](https://travis-ci.org/oslugr/curso-git.svg?branch=master)](https://travis-ci.org/oslugr/curso-git)
