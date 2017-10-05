@@ -153,8 +153,8 @@ squash ebfd367 Jekyll has become self-aware.
 squash 30e0ccb Changed the tagline in the binary, too.
 
 - Arreglar conflictos si los hubiera
-- git add .
-- git rebase —continue
+- git add . (si conflictos)
+- git rebase —continue (si conflictos)
 - git push origin <branchname> -f
 
 ## git workflow con rebase
