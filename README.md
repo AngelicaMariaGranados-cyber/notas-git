@@ -139,6 +139,8 @@ Eliges el lugar desde donde se publican y puedes generarla con Automatic Page Ge
 
 - Curso git, GitHub, Markdown (Adolfo Sanz de Diego): https://github.com/asanzdiego/curso-git-github-markdown-2016.
 
+- Learnyougit: https://github.com/Karumi/learnyougit.
+
 ## Squash
 
 http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html
