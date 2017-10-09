@@ -141,6 +141,8 @@ Eliges el lugar desde donde se publican y puedes generarla con Automatic Page Ge
 
 - Learnyougit: https://github.com/Karumi/learnyougit.
 
+- Convención commits Git (Angular): https://gist.github.com/stephenparish/9941e89d80e2bc58a153.
+
 ## Squash
 
 http://gitready.com/advanced/2009/02/10/squashing-commits-with-rebase.html
