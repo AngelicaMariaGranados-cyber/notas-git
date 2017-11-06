@@ -135,6 +135,8 @@ Eliges el lugar desde donde se publican y puedes generarla con Automatic Page Ge
 
 - Oh, shit, git!: http://ohshitgit.com/.
 
+- Git Flight rules: https://github.com/k88hudson/git-flight-rules/.
+
 - Git rebase: https://dev.to/maxwell_dev/the-git-rebase-introduction-i-wish-id-had.
 
 - Curso git, GitHub, Markdown (Adolfo Sanz de Diego): https://github.com/asanzdiego/curso-git-github-markdown-2016.
